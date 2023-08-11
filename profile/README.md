@@ -11,6 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+![ph_banner 2](https://github.com/appshine-io/.github/assets/24761660/0d632ac2-78c6-4693-9e51-e6e4228533b4)
+
+
 ## Introduction
 
 Appshine is a design agency focused on helping startups build and ship beautiful products their customers will love. ❤️ 

@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Appshine is a design agency focused on helping startups build and ship beautiful products their customers will love. ❤️ 
+Appshine is a design agency focused on helping startups drive sales and retention. ❤️ 
 Our core offer is:
 ```
 An app design your customers will love in 30 days or we refund 80% of your back

@@ -18,10 +18,6 @@
 ## Introduction
 
 Appshine is a design agency focused on helping startups drive sales and retention. ❤️ 
-Our core offer is:
-```
-An app design your customers will love in 30 days or we refund 80% of your back
-```
 We make this bold claim because we stand our skills. We are the best in the business.
 
 ## Fun Facts
